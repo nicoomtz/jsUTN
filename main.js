@@ -17,7 +17,7 @@ if (medioDeTransporte > 100000) {
 //Ejercicio 2
 
 let mayorNumero = 0;
-let numeros = [2255, 1, 66, 12, 77, 233, 45, 10];
+let numeros = [22, 1, 66, 12, 77, 233, 45, 10];
 
 for (let i = 0; i < numeros.length; i++) {
   if (numeros[i] > mayorNumero) {
